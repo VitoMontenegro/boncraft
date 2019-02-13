@@ -1,0 +1,82 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 13.02.2019 11:02
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.4
+WORDPRESS:	5.0.3
+PHP INFO:	7.2.0 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1536M default) 
+MEMORY STACK: 8MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:14 | filtered:0 | create:14 
+FILTERED: [] 
+SQL CREATED: 20190213_boncraft_cb3192133adba36e6405_20190213110156_database.sql 
+SQL FILE SIZE: 3.05MB (3201438) 
+SQL FILE TIME: 2019-02-13 11:02:37 
+SQL RUNTIME: 3.81 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/OSPanel/domains/boncraft 
+ARCHIVE FILE: 20190213_boncraft_cb3192133adba36e6405_20190213110156_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	78.12MB 
+STATS:	Dirs 415 | Files 3,204 
+SQL ADDED: 20190213_boncraft_cb3192133adba36e6405_20190213110156_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3619
+    [filename] => D:\OSPanel\domains\boncraft\wp-snapshots\tmp\20190213_boncraft_cb3192133adba36e6405_20190213110156_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 28.96MB 
+ARCHIVE RUNTIME: 36.03 sec. 
+MEMORY STACK: 10MB 
+building installer 
+add_extra_files1 
+add_extra_files2 
+add_extra_files3 
+add_extra_files4 
+Doing archive file check 
+add_extra_files5 
+add_extra_files6 
+add_extra_files8 
+Successfully opened zip D:/OSPanel/domains/boncraft/wp-snapshots/tmp/20190213_boncraft_cb3192133adba36e6405_20190213110156_archive.zip 
+Adding enhanced installer files to archive using ZipArchive 
+Installer files added to archive 
+Added to archive 
+After ziparchive close when adding installer 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 3.05MB 
+Installer File: 34.62KB 
+Archive File: 29.8MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 40.59 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20190213_boncraft 13.02.2019 11:03
+ 
