@@ -1517,6 +1517,35 @@ object {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+.footer-form form{
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -o-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+.wpcf7-form input {
+  width: 264px;
+  height: 50px;
+  margin:10px;
+
+}
+.submit {
+  position: relative;
+}
+.submit .ajax-loader {
+    position: absolute;
+    right: -25px;
+    top: 18px;
+}
 footer#colophon {
   font-size: 85%;
 }

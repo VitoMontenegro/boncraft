@@ -37,7 +37,7 @@ function global_vision_priory_parameters_shortcode( $atts ) {
                                 $prev_fl = isset( $posts[ ($k-1) ] ) ? get_first_letter( $posts[ ($k-1) ]->meta_key ) : '';
                                 if( $prev_fl !== $fl )  ?>
                                 
-                                <li class="flex-itm"><a href="<?php the_permalink(); ?>">
+                                <li class="flex-itm"><a href="<?php the_permalink($post_id); ?>">
                                     <?= $post->post_title; ?>
                                 </a></li>
 

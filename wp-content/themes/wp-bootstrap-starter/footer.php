@@ -10,7 +10,10 @@
  */
 
 ?>
-<?php echo do_shortcode('[contact-form-7 id="1700" title="Контактная форма 1"]'); ?>
+<div class="footer-form">
+	<?php echo do_shortcode('[contact-form-7 id="1700" title="Контактная форма 1"]'); ?>
+</div>
+
 <?php if(!is_page_template( 'blank-page.php' ) && !is_page_template( 'blank-page-with-container.php' )): ?>
 			</div><!-- .row -->
 		</div><!-- .container -->
